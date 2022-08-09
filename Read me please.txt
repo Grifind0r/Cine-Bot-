@@ -1,0 +1,8 @@
+Admin credentials:
+user: cinebot
+pass: 123
+
+User credentials:
+You can register yourself, however compiler  throws some exception when a new customer registers his id.
+you just have to run it again and login with the credentials that you have regestired.
+
